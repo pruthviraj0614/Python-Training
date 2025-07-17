@@ -10,3 +10,4 @@ def palindrome(p):
 word=input("Enter the word") 
 print("Yes its palindrome")
 
+
